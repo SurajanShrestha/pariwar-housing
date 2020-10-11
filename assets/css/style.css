@@ -282,6 +282,15 @@ p {
 .font-40 {
 	font-size: 40px;
 }
+.font-60{
+	font-size: 60px;
+}
+.font-70{
+	font-size: 70px;
+}
+.font-80{
+	font-size: 80px;
+}
 
 /* quotes style */
 blockquot,
