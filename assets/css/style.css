@@ -9581,3 +9581,14 @@ footer hr {
 #side-blog p{
 	margin-top: 5px;
 }
+.service .service-desc .feature-list{
+	list-style-type: none; 
+	padding: 0px;
+}
+.service .service-desc .feature-list li{
+	margin-bottom: 3px;
+	width: fit-content;
+}
+.service .service-block:hover .feature-list li{
+	color: #00407d;
+}
